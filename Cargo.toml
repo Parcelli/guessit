@@ -1,0 +1,12 @@
+[package]
+name = "guessit"
+version = "0.1.0"
+edition = "2021"
+author= "Parcelli Jepchirchir <parcelmaiyo@gmail.com>"
+description = " A easy fun number guessing game built in Rust"
+license = "MIT"
+repository = ""
+
+[dependencies]
+rand = "0.8.5" 
+colored = "3.0"
